@@ -2,7 +2,7 @@
   "id": "[plugin].com.TechDecryptor.youdao_tts",
   "plugin_type": "tts",
   "icon": "youdao.svg",
-  "display": "youdao",
+  "display": "有道 TTS",
   "homepage": "https://github.com/TechDecryptor/pot-app-tts-plugin-youdao",
   "needs": [],
   "language": {
