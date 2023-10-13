@@ -1,15 +1,15 @@
 {
-  "id": "[plugin].com.pot-app.lingva_tts",
+  "id": "[plugin].com.TechDecryptor.youdao_tts",
   "plugin_type": "tts",
-  "icon": "lingva.svg",
-  "display": "Lingva",
-  "homepage": "https://github.com/pot-app/pot-app-tts-plugin-template",
-  "needs": [{ "key": "requestPath", "display": "请求地址" }],
+  "icon": "youdao.svg",
+  "display": "youdao",
+  "homepage": "https://github.com/TechDecryptor/pot-app-tts-plugin-youdao",
+  "needs": [],
   "language": {
     "zh_cn": "zh",
-    "zh_tw": "zh_HANT",
+    "zh_tw": "zh",
     "en": "en",
-    "ja": "ja",
+    "ja": "jp",
     "ko": "ko",
     "fr": "fr",
     "es": "es",
@@ -17,15 +17,8 @@
     "de": "de",
     "it": "it",
     "tr": "tr",
-    "pt": "pt",
+    "pt_pt": "pt",
     "pt_br": "pt",
-    "vi": "vi",
-    "id": "id",
-    "th": "th",
-    "ms": "ms",
-    "ar": "ar",
-    "hi": "hi",
-    "mn_cy": "mn",
-    "km": "km"
+    "vi": "vi"
   }
 }
