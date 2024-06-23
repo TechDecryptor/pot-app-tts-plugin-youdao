@@ -1,5 +1,5 @@
 {
-  "id": "[plugin].com.TechDecryptor.youdao_tts",
+  "id": "plugin.com.TechDecryptor.youdao_tts",
   "plugin_type": "tts",
   "icon": "youdao.svg",
   "display": "有道 TTS",
